@@ -1,0 +1,15 @@
+#niti {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+  }
+  
+  #niti:hover {
+    background-color: blue;
+    margin-left: 200px;
+  }
+  
+  @keyframes xyz {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
